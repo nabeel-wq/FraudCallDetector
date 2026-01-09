@@ -37,7 +37,7 @@ Feel free to clone, fork, learn from, or build upon this code. No support will b
 Incoming Call → Auto-Answer → Audio Recording → Whisper ASR → MiniLM Classification → Decision
 ```
 
-The idea was solid, the implementation is there, but Android's security model seems to have killed it.
+
 
 ## Tech Stack
 
